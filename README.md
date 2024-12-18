@@ -18,11 +18,11 @@ Repeat these steps for each environment where you want to install the package.
 
 This package adds the following Sitecore Powershell Context Menu Extensions and Function items:
 
-![screenshot of items installed](screenshots/10_template_added.PNG "Demo")
+![screenshot of items installed](Screenshots/10_template_added.PNG "Demo")
 
-![screenshot of items installed](screenshots/11_item_added.png "Demo")
+![screenshot of items installed](Screenshots/11_item_added.png "Demo")
 
-![screenshot of items installed](screenshots/12_scripts_added.png "Demo")
+![screenshot of items installed](Screenshots/12_scripts_added.png "Demo")
 
 **Step 2**: Update the Client id and client secret from edge administration tool
 
@@ -39,14 +39,14 @@ This package adds the following Sitecore Powershell Context Menu Extensions and 
 - Navigate to powershell ISE https://{sitecore_host}/sitecore/shell/Applications/PowerShell/PowerShellIse.
 - click on settings->Rebuild All dropdown ->Sync Library with Content Editor Ribbon.
 
-![screenshot of items installed](screenshots/13_sync_ps_library.png "Demo")
+![screenshot of items installed](Screenshots/13_sync_ps_library.png "Demo")
 
 **Step 4**: Enable Developer tab on ribbon
 
 - Navigate to the sitecore desktop and right click ribbon.
 - Select Developer from the list if the developer tab is not enabled
 
-![screenshot of items installed](screenshots/14_enable_developer_tab.png "Demo")
+![screenshot of items installed](Screenshots/14_enable_developer_tab.png "Demo")
 
 
 **Demo Screenshots**
@@ -54,11 +54,11 @@ This package adds the following Sitecore Powershell Context Menu Extensions and 
 Ribbon buttons 
 - Clear Cache 
 
-    ![screenshot of items installed](screenshots/buttons_added.png "Demo")
+    ![screenshot of items installed](Screenshots/buttons_added.png "Demo")
 
 - Output screenshot
 
-   ![output](screenshots/output_message.png "Demo")
+   ![output](Screenshots/output_message.png "Demo")
 
 
 
