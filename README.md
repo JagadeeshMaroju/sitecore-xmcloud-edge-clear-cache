@@ -1,4 +1,4 @@
-# xmcloud-edge-webhook-management-tool
+# xmcloud-edge-cache-clear-tool
 Sitecore powershell **(SPE) module** experience edge tool to clear the edge cache.
 
 # INSTALLATION
