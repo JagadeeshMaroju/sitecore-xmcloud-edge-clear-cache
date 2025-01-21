@@ -46,7 +46,7 @@ This package adds the following Sitecore Powershell Context Menu Extensions and 
 - Navigate to the sitecore desktop and right click ribbon.
 - Select Developer from the list if the developer tab is not enabled
 
-![screenshot of items installed](Screenshots/14_enable_developer_tab.png "Demo")
+![screenshot of items installed](Screenshots/14_enable_developer_tab.png "Demo Screenshot")
 
 
 **Demo Screenshots**
